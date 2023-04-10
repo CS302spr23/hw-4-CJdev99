@@ -1,5 +1,5 @@
 # Big Text  *emphasis* **Bold Emphasis**
-⋅⋅* Bulletin
+* Bulletin
 1. List with code  `code` 
 2. Another List with image 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
